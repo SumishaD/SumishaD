@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SumishaDommaraju</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
-<img align="right" alt="codimh" width="400" src="https://i.pinimg.com/originals/06/ef/d9/06efd9fc18aade1ce5a7f80374b5ce61.gif">
+<img align="right" alt="codimh" width="300" src="https://i.pinimg.com/originals/06/ef/d9/06efd9fc18aade1ce5a7f80374b5ce61.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumishad&label=Profile%20views&color=0e75b6&style=flat" alt="sumishad" /> </p>
 
