@@ -45,6 +45,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=sumishad&hide=java,&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumishad&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumishad&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumishad&" alt="sumishad" /></p>
