@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumishad&label=Profile%20views&color=0e75b6&style=flat" alt="sumishad" /> </p>
 
-- 🔭 I’m currently pursuing **Master's in Advanced Data Science and AI 🇬🇧** 
+- 🔭 I’m currently pursuing **Master's in Advanced Data Science and AI :gb:** 
 
 - 💬 Ask me about **python, Machine Learning**
 
