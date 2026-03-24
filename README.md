@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SumishaDommaraju</h1>
-<h3 align="center">A passionate Data Science Enthusiast from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="codimh" width="300" src="https://i.pinimg.com/originals/06/ef/d9/06efd9fc18aade1ce5a7f80374b5ce61.gif">
 
